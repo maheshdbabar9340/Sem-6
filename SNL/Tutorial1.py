@@ -22,6 +22,7 @@ for i in range(n):
     else :
         print("Slot is not assigned for user " + str(i + 1))
         
+        
 print("")
 print("Cycle 2")
 print("")
